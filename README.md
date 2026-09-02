@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for **DevConf 2026** — the premier developer conference.  
 This project highlights event details, speakers, pricing plans, hackathon highlights, and footer with social links in a clean and professional layout.
-Website demo: https://zahidul-dev.github.io/Assignment-01/
+Website demo: https://zahidul-dev.github.io/website-1/
 ---
 
 ## 🚀 Features
